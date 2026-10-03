@@ -1,0 +1,3 @@
+# setup_env.py chooses the CPU or NVIDIA wheel source.
+torch==2.8.0
+torchvision==0.23.0

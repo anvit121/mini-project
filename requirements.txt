@@ -1,0 +1,13 @@
+# Install PyTorch first using setup_env.py, then install this file.
+numpy==2.2.3
+pandas==2.2.3
+scikit-learn==1.6.1
+matplotlib==3.10.1
+Pillow==11.1.0
+joblib==1.4.2
+ipykernel==6.29.5
+nbformat==5.10.4
+ftfy==6.3.1
+regex==2024.11.6
+tqdm==4.67.1
+clip @ git+https://github.com/openai/CLIP.git@a1d071733d7111c9c014f024669f959182114e33
